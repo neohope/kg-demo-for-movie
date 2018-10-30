@@ -1,0 +1,9 @@
+*.pyc
+*.bat
+.idea
+__pycache__
+
+
+
+
+
