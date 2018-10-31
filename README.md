@@ -15,7 +15,7 @@ How to build
 ```
 
 3. follow the steps here:
-https://www.neohope.com/
+https://www.neohope.org/category/ai/knowledgegraph/
 
 
 Reference
